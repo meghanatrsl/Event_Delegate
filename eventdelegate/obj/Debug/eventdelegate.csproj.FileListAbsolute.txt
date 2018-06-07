@@ -1,0 +1,7 @@
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\bin\Debug\eventdelegate.exe.config
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\bin\Debug\eventdelegate.exe
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\bin\Debug\eventdelegate.pdb
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\obj\Debug\eventdelegate.csprojAssemblyReference.cache
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\obj\Debug\eventdelegate.csproj.CoreCompileInputs.cache
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\obj\Debug\eventdelegate.exe
+C:\Users\Meghana.Thiruchuri\Desktop\web\eventdelegate\eventdelegate\obj\Debug\eventdelegate.pdb
